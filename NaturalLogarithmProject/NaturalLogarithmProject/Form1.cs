@@ -20,6 +20,7 @@ namespace NaturalLogarithmProject
 
         private void CalculateButton_Click(object sender, EventArgs e)
         {
+            answerLabel.Text = "ln(x) = ";
             errorLabel.Text = "";
             if(xTextBox.Text == "")
             {
