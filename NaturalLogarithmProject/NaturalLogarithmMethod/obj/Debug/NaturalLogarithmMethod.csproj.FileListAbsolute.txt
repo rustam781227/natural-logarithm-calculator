@@ -1,0 +1,6 @@
+C:\Users\Acer\Documents\NaturalLogarithmProject\NaturalLogarithmMethod\bin\Debug\NaturalLogarithmMethod.dll
+C:\Users\Acer\Documents\NaturalLogarithmProject\NaturalLogarithmMethod\bin\Debug\NaturalLogarithmMethod.pdb
+C:\Users\Acer\Documents\NaturalLogarithmProject\NaturalLogarithmMethod\obj\Debug\NaturalLogarithmMethod.csprojAssemblyReference.cache
+C:\Users\Acer\Documents\NaturalLogarithmProject\NaturalLogarithmMethod\obj\Debug\NaturalLogarithmMethod.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\NaturalLogarithmProject\NaturalLogarithmMethod\obj\Debug\NaturalLogarithmMethod.dll
+C:\Users\Acer\Documents\NaturalLogarithmProject\NaturalLogarithmMethod\obj\Debug\NaturalLogarithmMethod.pdb
